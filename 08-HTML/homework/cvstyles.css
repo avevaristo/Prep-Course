@@ -1,0 +1,59 @@
+body{
+    background-image: url(https://cdn-icons-png.flaticon.com/512/2362/2362719.png);
+}
+
+img{
+    width: 150px;
+}
+
+h3{
+    color: palevioletred;
+}
+
+.perfil{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: pink;
+    padding: 20px;
+}
+.divHeader{
+    display: block;
+    text-align: center;
+    background-color: pink;
+    padding: 0.5px;
+}
+
+.divRelevant{
+    display: block;
+    margin: 20px 100px;
+    padding: 0px 20px;
+    background-color: white;
+    height: 550px;
+    width: 550px;
+    float: left;
+}
+
+.divSkills{
+    display: block;
+    margin: 20px;
+    padding: 0px 20px;
+    background-color: white;
+    height: 300px;
+    width: 550px;
+    float: left;
+}
+
+.divWhy{
+    display:block;
+    margin: 20px;
+    padding: 0px 20px;
+    background-color: white;
+    height: 210px;
+    width: 550px;
+    float: left;
+}
+
+#space{
+    margin:-3% 0;
+}
